@@ -4,11 +4,11 @@ This project was created for an audience that require simple Webpage accesiility
 
 This project allows everyone  to utuizlse the program and funciotonality of the the webpage
 
-e.g Search Engine Optimization
+e.g.Search Engine Optimization
     
-    Online Reputation Management
+   Online Reputation Management
     
-    Social Media Marketing
+   Social Media Marketing
 
 Instructions on how Get this product:
 
@@ -18,11 +18,11 @@ Instructions on how Get this product:
 
 3.Copy repo- Url
 
-4. Go to your commands windows
+4.Go to your commands windows
 
 5.Type git clone and Paste the Url.
 
-6. Enter , and it should be deployed to your local PC.
+6.Enter , and it should be deployed to your local PC.
 
 This proeject is still being updated  daily and is always progressing to to eveolve into 
 a webPage everyoene can use.
