@@ -1,9 +1,13 @@
 Horiseon
 
 This project was created for an audience that require simple Webpage accesiility and Visibility.
+
 This project allows everyone  to utuizlse the program and funciotonality of the the webpage
+
 e.g Search Engine Optimization
+    
     Online Reputation Management
+    
     Social Media Marketing
 
 Instructions on how Get this product:
@@ -20,8 +24,10 @@ Instructions on how Get this product:
 
 6. Enter , and it should be deployed to your local PC.
 
-Where users can get help with your project
-Who maintains and contributes to the project
+This proeject is still being updated  daily and is always progressing to to eveolve into 
+a webPage everyoene can use.
+
+All developers with a keen eye for perfection and intrest in this Prject are welcome to use their skills and expertise where they see fit.
 
 This is the link to the Webpage after all applications.
 https://aliali-projects.github.io/h1/
