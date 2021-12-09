@@ -11,7 +11,7 @@ e.g.Search Engine Optimization
     
    Social Media Marketing
    
-These products ensure people to better marketing on thier business, allowing their busines to flourish  through strategic marketing method to help you excel
+These products ensure people to improve  marketing on thier business, allowing their business to flourish  through strategic marketing methods to help you excel
 and reach all  types of audiences , all you have to do is use "Horiseon"
    
 <img width="1434" alt="Screen Shot 2021-12-09 at 10 22 13 am" src="https://user-images.githubusercontent.com/94431110/145322853-f3b5eebc-4de8-4d63-8f83-2afbac55cc21.png">
