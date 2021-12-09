@@ -1,4 +1,5 @@
 Horiseon
+<img width="1434" alt="Screen Shot 2021-12-09 at 10 22 01 am" src="https://user-images.githubusercontent.com/94431110/145322798-f1fda36f-038e-402b-a868-f7c6fae07c16.png">
 
 This project was created for an audience that require simple Webpage accesiility and Visibility.
 
@@ -9,6 +10,8 @@ e.g.Search Engine Optimization
    Online Reputation Management
     
    Social Media Marketing
+   
+<img width="1434" alt="Screen Shot 2021-12-09 at 10 22 13 am" src="https://user-images.githubusercontent.com/94431110/145322853-f3b5eebc-4de8-4d63-8f83-2afbac55cc21.png">
 
 Instructions on how Get this product:
 
@@ -32,8 +35,3 @@ All developers with a keen eye for perfection and intrest in this Prject are wel
 This is the link to the Webpage after all applications.
 https://aliali-projects.github.io/h1/
 
-Video of the Webpage
-https://user-images.githubusercontent.com/94431110/145322393-6355624f-81f8-4537-bac9-3b32d410caf6.mov
-
-<img width="1434" alt="Screen Shot 2021-12-09 at 10 22 01 am" src="https://user-images.githubusercontent.com/94431110/145322798-f1fda36f-038e-402b-a868-f7c6fae07c16.png">
-<img width="1434" alt="Screen Shot 2021-12-09 at 10 22 13 am" src="https://user-images.githubusercontent.com/94431110/145322853-f3b5eebc-4de8-4d63-8f83-2afbac55cc21.png">
