@@ -7,18 +7,21 @@ e.g Search Engine Optimization
     Social Media Marketing
 
 Instructions on how Get this product:
-1.Open up Terminal for Mac or Windows Terminal for Windows PC.
-2.CLick on the for
+
+1.Open up Terminal for Mac or Windows Terminal for Windows.
+
+2.CLick on the fork in Git hub on this project. 
+
+3.Copy repo- Url
+
+4. Go to your commands windows
+
+5.Type git clone and Paste the Url.
+
+6. Enter , and it should be deployed to your local PC.
 
 Where users can get help with your project
 Who maintains and contributes to the project
-
-
-
-
-
-
-
 
 This is the link to the Webpage after all applications.
 https://aliali-projects.github.io/h1/
